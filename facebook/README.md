@@ -24,3 +24,6 @@ app.controller('AuthCtrl', function($scope) {
 
 Setting
 -------------------------------
+
+![alt tag](https://raw.githubusercontent.com/hoandang/angular-oauth-providers/master/facebook/setting.png)
+![alt tag](https://raw.githubusercontent.com/hoandang/angular-oauth-providers/master/facebook/status.png)
