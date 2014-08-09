@@ -13,7 +13,7 @@ angular.module('angular.oauth.facebook', [])
 
   function initFacebook(appId) {
     FB.init({ appId: appId, status: true, cookie: false, xfbml: true });
-  };
+  }
   
   function fbRoot() {
     var root = document.createElement('div');

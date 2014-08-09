@@ -21,3 +21,6 @@ app.controller('AuthCtrl', function($scope) {
 });
 
 ```
+
+Setting
+-------------------------------
