@@ -1,4 +1,4 @@
 angular-oauth-providers
 =======================
 
-Facebook and Twitter oauth directive
+Facebook and Google oauth directive
